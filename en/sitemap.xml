@@ -3,79 +3,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://quamels.github.io/showcase/</loc>
+    <loc>https://qamels.github.io/showcase/</loc>
     <lastmod>2016-12-05T14:41:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://quamels.github.io/sv/showcase/"
+                href="https://qamels.github.io/sv/showcase/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://quamels.github.io/showcase/"
+                href="https://qamels.github.io/showcase/"
                 />
   </url>
   
   <url>
-    <loc>https://quamels.github.io/2016/04/24/what-is-hugo/</loc>
+    <loc>https://qamels.github.io/2016/04/24/what-is-hugo/</loc>
     <lastmod>2016-04-24T02:50:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://quamels.github.io/2016/04/21/introduction/</loc>
+    <loc>https://qamels.github.io/2016/04/21/introduction/</loc>
     <lastmod>2016-04-21T02:50:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://quamels.github.io/sv/2016/12/05/introduktion/"
+                href="https://qamels.github.io/sv/2016/12/05/introduktion/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://quamels.github.io/2016/04/21/introduction/"
+                href="https://qamels.github.io/2016/04/21/introduction/"
                 />
   </url>
   
   <url>
-    <loc>https://quamels.github.io/</loc>
+    <loc>https://qamels.github.io/</loc>
     <lastmod>2016-12-05T14:41:00+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://quamels.github.io/sv/"
+                href="https://qamels.github.io/sv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://quamels.github.io/"
+                href="https://qamels.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://quamels.github.io/post/</loc>
+    <loc>https://qamels.github.io/post/</loc>
     <lastmod>2016-04-24T02:50:28+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://quamels.github.io/sv/post/"
+                href="https://qamels.github.io/sv/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://quamels.github.io/post/"
+                href="https://qamels.github.io/post/"
                 />
   </url>
   
   <url>
-    <loc>https://quamels.github.io/tags/</loc>
+    <loc>https://qamels.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quamels.github.io/topics/</loc>
+    <loc>https://qamels.github.io/topics/</loc>
     <priority>0</priority>
   </url>
   
