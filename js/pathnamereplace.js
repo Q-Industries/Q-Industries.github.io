@@ -14,7 +14,7 @@
 
 var defaultLang = CONTENTLANGUAGE, // get language from config file DefaultContentLanguage.
     pathArray = window.location.pathname.split( '/' ), // get the path and split the string on "/"
-    langArray = ["sv","es"], // Do not include the default lang here! For pages just create files like this: filename.en.md, filename.sv.md). For blog posts we redirect to the front page for each language.
+    langArray = ["es","ro","de","fr"], // Do not include the default lang here! For pages just create files like this: filename.en.md, filename.sv.md). For blog posts we redirect to the front page for each language.
     passtrueArray = ["CampaignProcess.aspx","FormProcessv2.aspx"], // sometimes it is not possible to add language support to a module. Then we do not check language.
     constructPath = window.location.protocol + "//" + window.location.host;
     pathArray.splice(0,1); // remove the first item which is empty
@@ -24,13 +24,17 @@ var firstPartofPathname = pathArray[0],
     thepathname = window.location.pathname,
     visitorLanguage = defaultLang;
 // run it on every request
-if (!checkPassTrue()){
-    if (cookieValue!=null){
-        changeLanguage(cookieValue);}
-        else {
-        changeLanguage(visitorLanguage);
-    }
-}
+//
+// Disabled by Lucius - there is something wrong with the cookie setting and
+// this if caused an infinite reload loop
+//
+//if (!checkPassTrue()){
+//    if (cookieValue!=null){
+//        changeLanguage(cookieValue);}
+//        else {
+//        changeLanguage(visitorLanguage);
+//    }
+//}
 // helper function: check if the first path item contains any of the known language acronymes
 function checkLanguage(){
     var itemFoundFlag = false;

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Min blog</title>
-    <link>https://qamels.github.io/sv/post/</link>
+    <link>https://Qamels.github.io/sv/post/</link>
     <description>Recent content in Posts on Min blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
@@ -11,15 +11,15 @@
     <copyright>(c) 2016 Alla rättigheter</copyright>
     <lastBuildDate>Mon, 05 Dec 2016 12:29:19 +0100</lastBuildDate>
     
-	<atom:link href="https://qamels.github.io/sv/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Qamels.github.io/sv/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduktion</title>
-      <link>https://qamels.github.io/sv/2016/12/05/introduktion/</link>
+      <link>https://Qamels.github.io/sv/2016/12/05/introduktion/</link>
       <pubDate>Mon, 05 Dec 2016 12:29:19 +0100</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>https://qamels.github.io/sv/2016/12/05/introduktion/</guid>
+      <guid>https://Qamels.github.io/sv/2016/12/05/introduktion/</guid>
       <description>En rubrik Text om ämnet ett.</description>
     </item>
     

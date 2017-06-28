@@ -1,47 +1,302 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My blog</title>
-    <link>https://qamels.github.io/</link>
-    <description>Recent content on My blog</description>
+    <title>Zen Simple Sitting</title>
+    <link>https://Qamels.github.io/</link>
+    <description>Recent content on Zen Simple Sitting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
-    <copyright>(c) 2016 Copyright my blog</copyright>
     <lastBuildDate>Mon, 05 Dec 2016 14:41:00 +0100</lastBuildDate>
     
-	<atom:link href="https://qamels.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Qamels.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://qamels.github.io/showcase/</link>
+      <link>https://Qamels.github.io/showcase/</link>
       <pubDate>Mon, 05 Dec 2016 14:41:00 +0100</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>https://qamels.github.io/showcase/</guid>
+      <guid>https://Qamels.github.io/showcase/</guid>
       <description>Showcase Showcase text in english.</description>
     </item>
     
     <item>
       <title>What is Hugo?</title>
-      <link>https://qamels.github.io/2016/04/24/what-is-hugo/</link>
+      <link>https://Qamels.github.io/2016/04/24/what-is-hugo/</link>
       <pubDate>Sun, 24 Apr 2016 02:50:28 +0200</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>https://qamels.github.io/2016/04/24/what-is-hugo/</guid>
+      <guid>https://Qamels.github.io/2016/04/24/what-is-hugo/</guid>
       <description>Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike other systems which dynamically build a page every time a visitor requests one, Hugo does the building when you create your content. Since websites are viewed far more often than they are edited, Hugo is optimized for website viewing while providing a great writing experience.
 Sites built with Hugo are extremely fast and very secure.</description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://qamels.github.io/2016/04/21/introduction/</link>
+      <link>https://Qamels.github.io/2016/04/21/introduction/</link>
       <pubDate>Thu, 21 Apr 2016 02:50:28 +0200</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>https://qamels.github.io/2016/04/21/introduction/</guid>
+      <guid>https://Qamels.github.io/2016/04/21/introduction/</guid>
       <description>Hugo is written in Go with support for multiple platforms.
 The latest release can be found at Hugo Releases. We currently provide pre-built binaries for &amp;nbsp;Windows, &amp;nbsp;Linux, &amp;nbsp;FreeBSD and &amp;nbsp;OS&amp;nbsp;X (Darwin) for x64, i386 and ARM architectures.
 Hugo may also be compiled from source wherever the Go compiler tool chain can run, e.g. for other operating systems including DragonFly BSD, OpenBSD, Plan&amp;nbsp;9 and Solaris. See http://golang.org/doc/install/source for the full set of supported combinations of target operating systems and compilation architectures.</description>
+    </item>
+    
+    <item>
+      <title>Calendrier</title>
+      <link>https://Qamels.github.io/fr/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/fr/events/</guid>
+      <description>Les principales prochaines dates événementielles du réseau Zen Simple Assise: - le 50ème anniversaire de l&amp;rsquo;arrivée de Maître Deshimaru en Europe du 12 au 14 mai à La Gendronnière, - la sesshin en Bretagne dirigée par Bruno Peslerbe les 20-21 mai à Poullan sur Mer (29100), - la sesshin d&amp;rsquo;été dirigée par Jean-Claude Reisaku Saint-Prix du 21 au 23 juillet en Bourgogne, - l&amp;rsquo;ango à La Saulsaie du 26 juillet au 20 août près de Lyon : - 1ère session dirigée par Brigitte Seiriki Stark, - 2nde session dirigée par Philippe Reiryu Coupey, - 3ème session dirigée par Bruno Kaiho Peslerbe.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Qamels.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/contact/</guid>
+      <description>Contact Sample text in ENGLISH
+For further information please send an email to
+stephan.chevilar@yhaoo.com</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Qamels.github.io/es/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/es/contact/</guid>
+      <description>Sample text in ENGLISH
+For further information please send an email to
+stephan.chevilar@yhaoo.com</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Qamels.github.io/fr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/fr/contact/</guid>
+      <description>Sample text in ENGLISH
+For further information please send an email to
+stephan.chevilar@yhaoo.com</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Qamels.github.io/ro/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/ro/contact/</guid>
+      <description>Sample text in ENGLISH
+For further information please send an email to
+stephan.chevilar@yhaoo.com</description>
+    </item>
+    
+    <item>
+      <title>Eventos</title>
+      <link>https://Qamels.github.io/es/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/es/events/</guid>
+      <description>Sample text in SPANISH
+Hier veröffentlichen wir die Termine, einfach als Liste. Evtl. reicht eine Seite in English, die Information ist ja nicht so schwer zu lesen
+  April 2017 &amp;laquo;Superduper Sesshin&amp;raquo; La Gendroniere, 66666 Blois, France Contact: marcel.gluk@gmail.com, +33 166 177 188   March 2017 &amp;laquo;Ganz Tolles Sesshin&amp;raquo; Zen-Dojo Galway, Galway 767676, Ireland Contact: tom@gmail.com, +37 166 177 188   April 2017 &amp;laquo;Superduper Sesshin La Gendroniere, 66666 Blois, France Contact: marcel.</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://Qamels.github.io/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/events/</guid>
+      <description>Home Sample text in ENGLISH
+Hier veröffentlichen wir die Termine, einfach als Liste. Evtl. reicht eine Seite in English, die Information ist ja nicht so schwer zu lesen
+  April 2017 &amp;laquo;Superduper Sesshin&amp;raquo; La Gendroniere, 66666 Blois, France Contact: marcel.gluk@gmail.com, +33 166 177 188   March 2017 &amp;laquo;Ganz Tolles Sesshin&amp;raquo; Zen-Dojo Galway, Galway 767676, Ireland Contact: tom@gmail.com, +37 166 177 188   April 2017 &amp;laquo;Superduper Sesshin La Gendroniere, 66666 Blois, France Contact: marcel.</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://Qamels.github.io/ro/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/ro/events/</guid>
+      <description>Sample text in ROMANIA
+Hier veröffentlichen wir die Termine, einfach als Liste. Evtl. reicht eine Seite in English, die Information ist ja nicht so schwer zu lesen
+  April 2017 &amp;laquo;Superduper Sesshin&amp;raquo; La Gendroniere, 66666 Blois, France Contact: marcel.gluk@gmail.com, +33 166 177 188   March 2017 &amp;laquo;Ganz Tolles Sesshin&amp;raquo; Zen-Dojo Galway, Galway 767676, Ireland Contact: tom@gmail.com, +37 166 177 188   April 2017 &amp;laquo;Superduper Sesshin La Gendroniere, 66666 Blois, France Contact: marcel.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://Qamels.github.io/de/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/de/home/</guid>
+      <description>Sample text in DEUTSCH</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://Qamels.github.io/es/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/es/home/</guid>
+      <description> Sample text in SPANISH </description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://Qamels.github.io/fr/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/fr/home/</guid>
+      <description>Vous trouverez pour l&amp;rsquo;instant seulement l&amp;rsquo;essentiel:
+ la présentation de Zen Simple Assise, la liste des principaux membres du réseau, les principales dates du calendrier.  </description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://Qamels.github.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/home/</guid>
+      <description>Home Sample text in ENGLISH
+Wer oder was ist Zen Simple Assise?</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://Qamels.github.io/ro/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/ro/home/</guid>
+      <description>Sample text for ROMANIA</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://Qamels.github.io/de/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/de/contact/</guid>
+      <description>Sample text in GERMAN
+For further information please send an email to
+stephan.chevilar@yhaoo.com</description>
+    </item>
+    
+    <item>
+      <title>Membres du Réseau</title>
+      <link>https://Qamels.github.io/fr/our_network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/fr/our_network/</guid>
+      <description>Les différentes sangha du réseau Zen Simple Assise
+ Association d&amp;rsquo;Est en Ouest avec Luc Boussard Asociación Zen Taisen Deshimaru avec Barbara Kosen Association Zen Vie Quotidienne avec Édouard Bagracbski Dojo zen de Genève avec Vincent Keisen Vuillemin et Maria Teresa Avila Vuillemin Groupe de Jean-Claude Reisaku Saint-Prix Groupe de Bruno Kaiho Peslerbe Mokusho Zen Hàz avec Yvon Myoken Bec Sangha Sans Demeure avec Philippe Reiryu Coupey The Irish Zen Group avec l&amp;rsquo;un des responsables Tom Jikai Cleary  </description>
+    </item>
+    
+    <item>
+      <title>Our Network</title>
+      <link>https://Qamels.github.io/es/our_network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/es/our_network/</guid>
+      <description>Sample text in spanish
+wer macht derzeit mit? wie kann man mitmachen? wohin kann ich mich wenden?
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Our Network</title>
+      <link>https://Qamels.github.io/our_network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/our_network/</guid>
+      <description>Home Sample text in ENGLISH
+wer macht derzeit mit? wie kann man mitmachen? wohin kann ich mich wenden?
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Our Network</title>
+      <link>https://Qamels.github.io/ro/our_network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/ro/our_network/</guid>
+      <description>Sample text in ROMANIA
+wer macht derzeit mit? wie kann man mitmachen? wohin kann ich mich wenden?
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Presentation</title>
+      <link>https://Qamels.github.io/presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/presentation/</guid>
+      <description>TODO: INSERT CONTENT IN ENGLISH.</description>
+    </item>
+    
+    <item>
+      <title>Présentation</title>
+      <link>https://Qamels.github.io/es/presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/es/presentation/</guid>
+      <description>TODO: INSERT CONTENT IN SPANISH. ALSO CHANGE THE TITLE.</description>
+    </item>
+    
+    <item>
+      <title>Présentation</title>
+      <link>https://Qamels.github.io/fr/presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/fr/presentation/</guid>
+      <description>Zen Simple Assise est un réseau de sangha d’anciens disciples de Maître Deshimaru et de pratiquants plus récents.
+Ils réunissent leur énergie et leur expérience pour faciliter la diffusion de la pratique et de l’enseignement transmis dans la lignée de Maître Deshimaru, Maître Kodo Sawaki et leurs prédécesseurs du zen Sôto.
+Zen Simple Assise est un espace commun de rencontre, d’échange et de réflexion pour protéger zazen des courants en vogue et des institutions.</description>
+    </item>
+    
+    <item>
+      <title>Présentation</title>
+      <link>https://Qamels.github.io/ro/presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/ro/presentation/</guid>
+      <description>TODO: INSERT CONTENT IN ROMAINIAN.</description>
+    </item>
+    
+    <item>
+      <title>Termine</title>
+      <link>https://Qamels.github.io/de/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/de/events/</guid>
+      <description>Sample text in GERMAN
+Hier veröffentlichen wir die Termine, einfach als Liste. Evtl. reicht eine Seite in English, die Information ist ja nicht so schwer zu lesen
+  April 2017 &amp;laquo;Superduper Sesshin&amp;raquo; La Gendroniere, 66666 Blois, France Contact: marcel.gluk@gmail.com, +33 166 177 188   March 2017 &amp;laquo;Ganz Tolles Sesshin&amp;raquo; Zen-Dojo Galway, Galway 767676, Ireland Contact: tom@gmail.com, +37 166 177 188   April 2017 &amp;laquo;Superduper Sesshin La Gendroniere, 66666 Blois, France Contact: marcel.</description>
+    </item>
+    
+    <item>
+      <title>Über uns</title>
+      <link>https://Qamels.github.io/de/our_network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/de/our_network/</guid>
+      <description>Sample text in GERMAN
+wer macht derzeit mit? wie kann man mitmachen? wohin kann ich mich wenden?
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Über uns</title>
+      <link>https://Qamels.github.io/de/presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://Qamels.github.io/de/presentation/</guid>
+      <description>TODO: CONTENT AUF DEUTSCH EINTRAGEN.</description>
     </item>
     
   </channel>

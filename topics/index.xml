@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topics on My blog</title>
-    <link>https://qamels.github.io/topics/</link>
-    <description>Recent content in Topics on My blog</description>
+    <title>Topics on Zen Simple Sitting</title>
+    <link>https://Qamels.github.io/topics/</link>
+    <description>Recent content in Topics on Zen Simple Sitting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
-    <copyright>(c) 2016 Copyright my blog</copyright>
     
-	<atom:link href="https://qamels.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Qamels.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

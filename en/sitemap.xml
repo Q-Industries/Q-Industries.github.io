@@ -3,80 +3,240 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://qamels.github.io/showcase/</loc>
+    <loc>https://Qamels.github.io/showcase/</loc>
     <lastmod>2016-12-05T14:41:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://qamels.github.io/sv/showcase/"
+                href="https://Qamels.github.io/sv/sv/showcase/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qamels.github.io/showcase/"
+                href="https://Qamels.github.io/showcase/"
                 />
   </url>
   
   <url>
-    <loc>https://qamels.github.io/2016/04/24/what-is-hugo/</loc>
+    <loc>https://Qamels.github.io/2016/04/24/what-is-hugo/</loc>
     <lastmod>2016-04-24T02:50:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://qamels.github.io/2016/04/21/introduction/</loc>
+    <loc>https://Qamels.github.io/2016/04/21/introduction/</loc>
     <lastmod>2016-04-21T02:50:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://qamels.github.io/sv/2016/12/05/introduktion/"
+                href="https://Qamels.github.io/sv/2016/12/05/introduktion/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qamels.github.io/2016/04/21/introduction/"
+                href="https://Qamels.github.io/2016/04/21/introduction/"
                 />
   </url>
   
   <url>
-    <loc>https://qamels.github.io/</loc>
-    <lastmod>2016-12-05T14:41:00+01:00</lastmod>
+    <loc>https://Qamels.github.io/fr/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/es/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/fr/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/ro/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/de/</loc>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://qamels.github.io/sv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://qamels.github.io/"
-                />
   </url>
   
   <url>
-    <loc>https://qamels.github.io/post/</loc>
+    <loc>https://Qamels.github.io/es/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/es/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/ro/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/fr/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/de/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/es/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/fr/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/ro/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/de/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/fr/our_network/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/es/our_network/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/our_network/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/ro/our_network/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/post/</loc>
     <lastmod>2016-04-24T02:50:28+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://qamels.github.io/sv/post/"
+                href="https://Qamels.github.io/sv/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qamels.github.io/post/"
+                href="https://Qamels.github.io/post/"
                 />
   </url>
   
   <url>
-    <loc>https://qamels.github.io/tags/</loc>
+    <loc>https://Qamels.github.io/presentation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/es/presentation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/fr/presentation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/ro/presentation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/ro/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://qamels.github.io/topics/</loc>
+    <loc>https://Qamels.github.io/tags/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Qamels.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://Qamels.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Qamels.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/de/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/topics/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Qamels.github.io/de/topics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://Qamels.github.io/fr/topics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Qamels.github.io/topics/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/</loc>
+    <lastmod>2016-12-05T14:41:00+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Qamels.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://Qamels.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://Qamels.github.io/sv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Qamels.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/de/our_network/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/de/presentation/</loc>
   </url>
   
 </urlset>

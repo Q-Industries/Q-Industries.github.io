@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://Qamels.github.io/de/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Qamels.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://Qamels.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Qamels.github.io/de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/de/topics/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Qamels.github.io/topics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://Qamels.github.io/fr/topics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Qamels.github.io/de/topics/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/de/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://Qamels.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Qamels.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://Qamels.github.io/sv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Qamels.github.io/de/"
+                />
+  </url>
+  
+</urlset>
