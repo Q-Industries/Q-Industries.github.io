@@ -1,67 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Frs on Zen Simple Sitting</title>
+    <title>Bonjour! on Zen Simple Asisse</title>
     <link>https://Qamels.github.io/fr/</link>
-    <description>Recent content in Frs on Zen Simple Sitting</description>
+    <description>Recent content in Bonjour! on Zen Simple Asisse</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
+    <language>fr</language>
     
 	<atom:link href="https://Qamels.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Calendrier</title>
-      <link>https://Qamels.github.io/fr/events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>https://Qamels.github.io/fr/events/</guid>
-      <description>Les principales prochaines dates événementielles du réseau Zen Simple Assise: - le 50ème anniversaire de l&amp;rsquo;arrivée de Maître Deshimaru en Europe du 12 au 14 mai à La Gendronnière, - la sesshin en Bretagne dirigée par Bruno Peslerbe les 20-21 mai à Poullan sur Mer (29100), - la sesshin d&amp;rsquo;été dirigée par Jean-Claude Reisaku Saint-Prix du 21 au 23 juillet en Bourgogne, - l&amp;rsquo;ango à La Saulsaie du 26 juillet au 20 août près de Lyon : - 1ère session dirigée par Brigitte Seiriki Stark, - 2nde session dirigée par Philippe Reiryu Coupey, - 3ème session dirigée par Bruno Kaiho Peslerbe.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://Qamels.github.io/fr/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>https://Qamels.github.io/fr/contact/</guid>
-      <description>Sample text in ENGLISH
-For further information please send an email to
-stephan.chevilar@yhaoo.com</description>
-    </item>
-    
-    <item>
-      <title>Home</title>
-      <link>https://Qamels.github.io/fr/home/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>https://Qamels.github.io/fr/home/</guid>
-      <description>Vous trouverez pour l&amp;rsquo;instant seulement l&amp;rsquo;essentiel:
- la présentation de Zen Simple Assise, la liste des principaux membres du réseau, les principales dates du calendrier.  </description>
-    </item>
-    
-    <item>
-      <title>Membres du Réseau</title>
-      <link>https://Qamels.github.io/fr/our_network/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>https://Qamels.github.io/fr/our_network/</guid>
-      <description>Les différentes sangha du réseau Zen Simple Assise
- Association d&amp;rsquo;Est en Ouest avec Luc Boussard Asociación Zen Taisen Deshimaru avec Barbara Kosen Association Zen Vie Quotidienne avec Édouard Bagracbski Dojo zen de Genève avec Vincent Keisen Vuillemin et Maria Teresa Avila Vuillemin Groupe de Jean-Claude Reisaku Saint-Prix Groupe de Bruno Kaiho Peslerbe Mokusho Zen Hàz avec Yvon Myoken Bec Sangha Sans Demeure avec Philippe Reiryu Coupey The Irish Zen Group avec l&amp;rsquo;un des responsables Tom Jikai Cleary  </description>
-    </item>
-    
-    <item>
-      <title>Présentation</title>
-      <link>https://Qamels.github.io/fr/presentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>https://Qamels.github.io/fr/presentation/</guid>
-      <description>Zen Simple Assise est un réseau de sangha d’anciens disciples de Maître Deshimaru et de pratiquants plus récents.
-Ils réunissent leur énergie et leur expérience pour faciliter la diffusion de la pratique et de l’enseignement transmis dans la lignée de Maître Deshimaru, Maître Kodo Sawaki et leurs prédécesseurs du zen Sôto.
-Zen Simple Assise est un espace commun de rencontre, d’échange et de réflexion pour protéger zazen des courants en vogue et des institutions.</description>
-    </item>
     
   </channel>
 </rss>

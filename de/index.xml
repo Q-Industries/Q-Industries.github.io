@@ -1,67 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Des on Zen Simple Sitting</title>
+    <title>Willkommen! on Zen Einfaches Sitzen</title>
     <link>https://Qamels.github.io/de/</link>
-    <description>Recent content in Des on Zen Simple Sitting</description>
+    <description>Recent content in Willkommen! on Zen Einfaches Sitzen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
+    <language>de</language>
     
 	<atom:link href="https://Qamels.github.io/de/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Home</title>
-      <link>https://Qamels.github.io/de/home/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>https://Qamels.github.io/de/home/</guid>
-      <description>Sample text in DEUTSCH</description>
-    </item>
-    
-    <item>
-      <title>Kontakt</title>
-      <link>https://Qamels.github.io/de/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>https://Qamels.github.io/de/contact/</guid>
-      <description>Sample text in GERMAN
-For further information please send an email to
-stephan.chevilar@yhaoo.com</description>
-    </item>
-    
-    <item>
-      <title>Termine</title>
-      <link>https://Qamels.github.io/de/events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>https://Qamels.github.io/de/events/</guid>
-      <description>Sample text in GERMAN
-Hier veröffentlichen wir die Termine, einfach als Liste. Evtl. reicht eine Seite in English, die Information ist ja nicht so schwer zu lesen
-  April 2017 &amp;laquo;Superduper Sesshin&amp;raquo; La Gendroniere, 66666 Blois, France Contact: marcel.gluk@gmail.com, +33 166 177 188   March 2017 &amp;laquo;Ganz Tolles Sesshin&amp;raquo; Zen-Dojo Galway, Galway 767676, Ireland Contact: tom@gmail.com, +37 166 177 188   April 2017 &amp;laquo;Superduper Sesshin La Gendroniere, 66666 Blois, France Contact: marcel.</description>
-    </item>
-    
-    <item>
-      <title>Über uns</title>
-      <link>https://Qamels.github.io/de/our_network/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>https://Qamels.github.io/de/our_network/</guid>
-      <description>Sample text in GERMAN
-wer macht derzeit mit? wie kann man mitmachen? wohin kann ich mich wenden?
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Über uns</title>
-      <link>https://Qamels.github.io/de/presentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>https://Qamels.github.io/de/presentation/</guid>
-      <description>TODO: CONTENT AUF DEUTSCH EINTRAGEN.</description>
-    </item>
     
   </channel>
 </rss>
