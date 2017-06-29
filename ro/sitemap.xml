@@ -1,181 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://Qamels.github.io/ro/</loc>
+  </url>
   
   <url>
     <loc>https://Qamels.github.io/ro/categories/</loc>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Qamels.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://Qamels.github.io/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://Qamels.github.io/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://Qamels.github.io/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://Qamels.github.io/ro/categories/"
-                />
   </url>
   
   <url>
     <loc>https://Qamels.github.io/ro/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://Qamels.github.io/de/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Qamels.github.io/en/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://Qamels.github.io/es/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://Qamels.github.io/fr/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://Qamels.github.io/ro/contact/"
-                />
   </url>
   
   <url>
     <loc>https://Qamels.github.io/ro/network/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Qamels.github.io/en/network/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://Qamels.github.io/es/network/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://Qamels.github.io/fr/network/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://Qamels.github.io/de/network/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://Qamels.github.io/ro/network/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://Qamels.github.io/ro/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://Qamels.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://Qamels.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Qamels.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://Qamels.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://Qamels.github.io/ro/"
-                />
   </url>
   
   <url>
     <loc>https://Qamels.github.io/ro/tags/</loc>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Qamels.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://Qamels.github.io/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://Qamels.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://Qamels.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://Qamels.github.io/ro/tags/"
-                />
   </url>
   
   <url>
     <loc>https://Qamels.github.io/ro/events/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://Qamels.github.io/de/events/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Qamels.github.io/en/events/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://Qamels.github.io/es/events/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://Qamels.github.io/fr/events/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://Qamels.github.io/ro/events/"
-                />
   </url>
   
 </urlset>
