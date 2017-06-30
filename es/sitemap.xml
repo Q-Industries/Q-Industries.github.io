@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://Qamels.github.io/es/calendar/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://Qamels.github.io/es/categories/</loc>
     <priority>0</priority>
   </url>
@@ -15,7 +20,20 @@
   </url>
   
   <url>
+    <loc>https://Qamels.github.io/es/index-files-for-hugo-bootstrap-theme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/es/index-files-for-hugo-bootstrap-theme/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://Qamels.github.io/es/network/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/es/network/bootstrap-theme/</loc>
   </url>
   
   <url>
@@ -24,7 +42,7 @@
   </url>
   
   <url>
-    <loc>https://Qamels.github.io/es/events/</loc>
+    <loc>https://Qamels.github.io/es/calendar/intro/</loc>
   </url>
   
 </urlset>

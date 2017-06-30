@@ -41,5 +41,48 @@ The latest release can be found at Hugo Releases. We currently provide pre-built
 Hugo may also be compiled from source wherever the Go compiler tool chain can run, e.g. for other operating systems including DragonFly BSD, OpenBSD, Plan&amp;nbsp;9 and Solaris. See http://golang.org/doc/install/source for the full set of supported combinations of target operating systems and compilation architectures.</description>
     </item>
     
+    <item>
+      <title>Events</title>
+      <link>https://Qamels.github.io/en/calendar/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Qamels.github.io/en/calendar/intro/</guid>
+      <description>Sample text in English
+Hier veröffentlichen wir die Termine, einfach als Liste. Evtl. reicht eine Seite in English, die Information ist ja nicht so schwer zu lesen</description>
+    </item>
+    
+    <item>
+      <title>Membres du Réseau</title>
+      <link>https://Qamels.github.io/en/network/bootstrap-theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Qamels.github.io/en/network/bootstrap-theme/</guid>
+      <description>Les différentes sangha du réseau Zen Simple Assise
+ Association d&amp;rsquo;Est en Ouest avec Luc Boussard Asociación Zen Taisen Deshimaru avec Barbara Kosen Association Zen Vie Quotidienne avec Édouard Bagracbski Dojo zen de Genève avec Vincent Keisen Vuillemin et Maria Teresa Avila Vuillemin Groupe de Jean-Claude Reisaku Saint-Prix Groupe de Bruno Kaiho Peslerbe Mokusho Zen Hàz avec Yvon Myoken Bec Sangha Sans Demeure avec Philippe Reiryu Coupey The Irish Zen Group avec l&amp;rsquo;un des responsables Tom Jikai Cleary  </description>
+    </item>
+    
+    <item>
+      <title>Termine</title>
+      <link>https://Qamels.github.io/en/calendar/eventslist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Qamels.github.io/en/calendar/eventslist/</guid>
+      <description>23.-25. April 2017, Big Sesshin, La Gendroniere
+La Gendroniere, 66666 Blois, France Contact: marcel.gluk@gmail.com Phone: +33 166 177 188 Information: Tesx
+23.-25. April 2017, Big Sesshin, La Gendroniere   March 2017 &amp;ldquo;Ganz Tolles Sesshin&amp;rdquo; Zen-Dojo Galway, Galway 767676, Ireland Contact: tom@gmail.com, +37 166 177 188   April 2017 &amp;ldquo;Superduper Sesshin La Gendroniere, 66666 Blois, France Contact: marcel.gluk@gmail.com, +33 166 177 188   March 2017 &amp;ldquo;Ganz Tolles Sesshin&amp;rdquo; Zen-Dojo Galway, Galway 767676, Ireland Contact: tom@gmail.</description>
+    </item>
+    
+    <item>
+      <title>Welcome!</title>
+      <link>https://Qamels.github.io/en/index-files-for-hugo-bootstrap-theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Qamels.github.io/en/index-files-for-hugo-bootstrap-theme/</guid>
+      <description>Zen Simple Assise is a sangha network of former disciples of Master Deshimaru and other more recent practitioners.
+They combine their energy and experience to Dissemination of the practice and teaching transmitted in the Of Master Deshimaru, Master Kodo Sawaki and their predecessors of Zen Soto.
+Zen Simple Assise is a common space for meetings, exchanges and Reflection to protect zazen from the current trends and institutions.
+We organize different events such as the anniversary of the death of Master Deshimaru a Mokudo sesshin in Spain, thriving to embrace the spirit of the original sangha.</description>
+    </item>
+    
   </channel>
 </rss>

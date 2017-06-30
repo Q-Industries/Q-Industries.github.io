@@ -17,6 +17,11 @@
   </url>
   
   <url>
+    <loc>https://Qamels.github.io/en/calendar/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://Qamels.github.io/en/categories/</loc>
     <priority>0</priority>
   </url>
@@ -26,7 +31,20 @@
   </url>
   
   <url>
+    <loc>https://Qamels.github.io/en/calendar/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/en/index-files-for-hugo-bootstrap-theme/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://Qamels.github.io/en/network/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/en/network/bootstrap-theme/</loc>
   </url>
   
   <url>
@@ -41,12 +59,16 @@
   </url>
   
   <url>
-    <loc>https://Qamels.github.io/en/events/</loc>
+    <loc>https://Qamels.github.io/en/calendar/eventslist/</loc>
   </url>
   
   <url>
     <loc>https://Qamels.github.io/en/</loc>
     <lastmod>2016-12-05T12:29:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Qamels.github.io/en/index-files-for-hugo-bootstrap-theme/</loc>
   </url>
   
 </urlset>
