@@ -12,7 +12,7 @@
   </url>
   
   <url>
-    <loc>https://Qamels.github.io/de/contact/</loc>
+    <loc>https://Qamels.github.io/de/calendar/intro/</loc>
   </url>
   
   <url>
@@ -21,12 +21,12 @@
   </url>
   
   <url>
-    <loc>https://Qamels.github.io/de/tags/</loc>
-    <priority>0</priority>
+    <loc>https://Qamels.github.io/de/contact/</loc>
   </url>
   
   <url>
-    <loc>https://Qamels.github.io/de/calendar/intro/</loc>
+    <loc>https://Qamels.github.io/de/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -39,10 +39,6 @@
   
   <url>
     <loc>https://Qamels.github.io/de/network/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Qamels.github.io/de/network/bootstrap-theme/</loc>
   </url>
   
 </urlset>

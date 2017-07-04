@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Membres du Réseau on Zen Simple Sitting</title>
+    <title>About us on Zen Simple Sitting</title>
     <link>https://Qamels.github.io/en/network/</link>
-    <description>Recent content in Membres du Réseau on Zen Simple Sitting</description>
+    <description>Recent content in About us on Zen Simple Sitting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
 	<atom:link href="https://Qamels.github.io/en/network/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Membres du Réseau</title>
-      <link>https://Qamels.github.io/en/network/bootstrap-theme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Qamels.github.io/en/network/bootstrap-theme/</guid>
-      <description>Les différentes sangha du réseau Zen Simple Assise
- Association d&amp;rsquo;Est en Ouest avec Luc Boussard Asociación Zen Taisen Deshimaru avec Barbara Kosen Association Zen Vie Quotidienne avec Édouard Bagracbski Dojo zen de Genève avec Vincent Keisen Vuillemin et Maria Teresa Avila Vuillemin Groupe de Jean-Claude Reisaku Saint-Prix Groupe de Bruno Kaiho Peslerbe Mokusho Zen Hàz avec Yvon Myoken Bec Sangha Sans Demeure avec Philippe Reiryu Coupey The Irish Zen Group avec l&amp;rsquo;un des responsables Tom Jikai Cleary  </description>
-    </item>
     
   </channel>
 </rss>

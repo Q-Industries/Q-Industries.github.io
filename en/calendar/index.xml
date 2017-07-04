@@ -11,16 +11,6 @@
     
     
     <item>
-      <title>Events</title>
-      <link>https://Qamels.github.io/en/calendar/intro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Qamels.github.io/en/calendar/intro/</guid>
-      <description>Sample text in English
-Hier veröffentlichen wir die Termine, einfach als Liste. Evtl. reicht eine Seite in English, die Information ist ja nicht so schwer zu lesen</description>
-    </item>
-    
-    <item>
       <title>Termine</title>
       <link>https://Qamels.github.io/en/calendar/eventslist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,6 +19,22 @@ Hier veröffentlichen wir die Termine, einfach als Liste. Evtl. reicht eine Seit
       <description>23.-25. April 2017, Big Sesshin, La Gendroniere
 La Gendroniere, 66666 Blois, France Contact: marcel.gluk@gmail.com Phone: +33 166 177 188 Information: Tesx
 23.-25. April 2017, Big Sesshin, La Gendroniere   March 2017 &amp;ldquo;Ganz Tolles Sesshin&amp;rdquo; Zen-Dojo Galway, Galway 767676, Ireland Contact: tom@gmail.com, +37 166 177 188   April 2017 &amp;ldquo;Superduper Sesshin La Gendroniere, 66666 Blois, France Contact: marcel.gluk@gmail.com, +33 166 177 188   March 2017 &amp;ldquo;Ganz Tolles Sesshin&amp;rdquo; Zen-Dojo Galway, Galway 767676, Ireland Contact: tom@gmail.</description>
+    </item>
+    
+    <item>
+      <title>The main event dates of the Zen Simple Assise network</title>
+      <link>https://Qamels.github.io/en/calendar/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Qamels.github.io/en/calendar/intro/</guid>
+      <description>Ango at La Saulsaie from July 26th to August 20th near Lyon
+ 1st session led by Brigitte Seiriki Stark,
+ 2nd session directed by Philippe Reiryu Coupey,
+ 3rd session led by Bruno Kaiho Peslerbe.
+ Flyer
+ Please, subscribe to Ango preferably via the Online form
+  The summer sesshin directed by Jean-Claude Reisaku Saint-Prix from 21 to July 23 in Burgundy
+ Flyer  The sesshin in Brittany led by Bruno Peslerbe on 20-21 May in Poullan sur Mer (29100)</description>
     </item>
     
   </channel>
