@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://qamels.github.io/en/post/introduction.sv/</loc>
@@ -18,25 +19,150 @@
   
   <url>
     <loc>https://qamels.github.io/en/network/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://qamels.github.io/es/network/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://qamels.github.io/fr/network/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://qamels.github.io/ro/network/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://qamels.github.io/de/network/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qamels.github.io/en/network/"
+                />
   </url>
   
   <url>
     <loc>https://qamels.github.io/en/calendar/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://qamels.github.io/de/calendar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://qamels.github.io/fr/calendar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://qamels.github.io/es/calendar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://qamels.github.io/ro/calendar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qamels.github.io/en/calendar/"
+                />
   </url>
   
   <url>
     <loc>https://qamels.github.io/en/categories/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://qamels.github.io/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://qamels.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://qamels.github.io/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://qamels.github.io/ro/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qamels.github.io/en/categories/"
+                />
   </url>
   
   <url>
     <loc>https://qamels.github.io/en/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://qamels.github.io/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://qamels.github.io/ro/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://qamels.github.io/es/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://qamels.github.io/de/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qamels.github.io/en/contact/"
+                />
   </url>
   
   <url>
     <loc>https://qamels.github.io/en/index-files-for-hugo-bootstrap-theme/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://qamels.github.io/de/index-files-for-hugo-bootstrap-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://qamels.github.io/fr/index-files-for-hugo-bootstrap-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://qamels.github.io/es/index-files-for-hugo-bootstrap-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://qamels.github.io/ro/index-files-for-hugo-bootstrap-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qamels.github.io/en/index-files-for-hugo-bootstrap-theme/"
+                />
   </url>
   
   <url>
@@ -48,6 +174,31 @@
   <url>
     <loc>https://qamels.github.io/en/tags/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://qamels.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://qamels.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://qamels.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://qamels.github.io/ro/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qamels.github.io/en/tags/"
+                />
   </url>
   
   <url>
@@ -56,15 +207,90 @@
   
   <url>
     <loc>https://qamels.github.io/en/calendar/intro/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://qamels.github.io/de/calendar/intro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://qamels.github.io/es/calendar/intro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://qamels.github.io/ro/calendar/intro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://qamels.github.io/fr/calendar/intro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qamels.github.io/en/calendar/intro/"
+                />
   </url>
   
   <url>
     <loc>https://qamels.github.io/en/</loc>
     <lastmod>2016-12-05T12:29:19+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://qamels.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://qamels.github.io/ro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://qamels.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://qamels.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qamels.github.io/en/"
+                />
   </url>
   
   <url>
     <loc>https://qamels.github.io/en/index-files-for-hugo-bootstrap-theme/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://qamels.github.io/fr/index-files-for-hugo-bootstrap-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://qamels.github.io/ro/index-files-for-hugo-bootstrap-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://qamels.github.io/es/index-files-for-hugo-bootstrap-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://qamels.github.io/de/index-files-for-hugo-bootstrap-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qamels.github.io/en/index-files-for-hugo-bootstrap-theme/"
+                />
   </url>
   
 </urlset>
