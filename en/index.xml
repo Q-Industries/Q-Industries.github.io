@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome! on Zen Simple Sitting</title>
-    <link>https://Qamels.github.io/en/</link>
+    <link>https://qamels.github.io/en/</link>
     <description>Recent content in Welcome! on Zen Simple Sitting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Dec 2016 12:29:19 +0100</lastBuildDate>
     
-	<atom:link href="https://Qamels.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qamels.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduktion</title>
-      <link>https://Qamels.github.io/en/post/introduction.sv/</link>
+      <link>https://qamels.github.io/en/post/introduction.sv/</link>
       <pubDate>Mon, 05 Dec 2016 12:29:19 +0100</pubDate>
       
-      <guid>https://Qamels.github.io/en/post/introduction.sv/</guid>
+      <guid>https://qamels.github.io/en/post/introduction.sv/</guid>
       <description>En rubrik Text om ämnet ett.</description>
     </item>
     
     <item>
       <title>What is Hugo?</title>
-      <link>https://Qamels.github.io/en/post/what-is-hugo/</link>
+      <link>https://qamels.github.io/en/post/what-is-hugo/</link>
       <pubDate>Sun, 24 Apr 2016 02:50:28 +0200</pubDate>
       
-      <guid>https://Qamels.github.io/en/post/what-is-hugo/</guid>
+      <guid>https://qamels.github.io/en/post/what-is-hugo/</guid>
       <description>Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike other systems which dynamically build a page every time a visitor requests one, Hugo does the building when you create your content. Since websites are viewed far more often than they are edited, Hugo is optimized for website viewing while providing a great writing experience.
 Sites built with Hugo are extremely fast and very secure.</description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://Qamels.github.io/en/post/introduction/</link>
+      <link>https://qamels.github.io/en/post/introduction/</link>
       <pubDate>Thu, 21 Apr 2016 02:50:28 +0200</pubDate>
       
-      <guid>https://Qamels.github.io/en/post/introduction/</guid>
+      <guid>https://qamels.github.io/en/post/introduction/</guid>
       <description>Hugo is written in Go with support for multiple platforms.
 The latest release can be found at Hugo Releases. We currently provide pre-built binaries for &amp;nbsp;Windows, &amp;nbsp;Linux, &amp;nbsp;FreeBSD and &amp;nbsp;OS&amp;nbsp;X (Darwin) for x64, i386 and ARM architectures.
 Hugo may also be compiled from source wherever the Go compiler tool chain can run, e.g. for other operating systems including DragonFly BSD, OpenBSD, Plan&amp;nbsp;9 and Solaris. See http://golang.org/doc/install/source for the full set of supported combinations of target operating systems and compilation architectures.</description>
@@ -43,10 +43,10 @@ Hugo may also be compiled from source wherever the Go compiler tool chain can ru
     
     <item>
       <title>Termine</title>
-      <link>https://Qamels.github.io/en/calendar/eventslist/</link>
+      <link>https://qamels.github.io/en/calendar/eventslist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Qamels.github.io/en/calendar/eventslist/</guid>
+      <guid>https://qamels.github.io/en/calendar/eventslist/</guid>
       <description>23.-25. April 2017, Big Sesshin, La Gendroniere
 La Gendroniere, 66666 Blois, France Contact: marcel.gluk@gmail.com Phone: +33 166 177 188 Information: Tesx
 23.-25. April 2017, Big Sesshin, La Gendroniere   March 2017 &amp;ldquo;Ganz Tolles Sesshin&amp;rdquo; Zen-Dojo Galway, Galway 767676, Ireland Contact: tom@gmail.com, +37 166 177 188   April 2017 &amp;ldquo;Superduper Sesshin La Gendroniere, 66666 Blois, France Contact: marcel.gluk@gmail.com, +33 166 177 188   March 2017 &amp;ldquo;Ganz Tolles Sesshin&amp;rdquo; Zen-Dojo Galway, Galway 767676, Ireland Contact: tom@gmail.</description>
@@ -54,10 +54,10 @@ La Gendroniere, 66666 Blois, France Contact: marcel.gluk@gmail.com Phone: +33 16
     
     <item>
       <title>The main event dates of the Zen Simple Assise network</title>
-      <link>https://Qamels.github.io/en/calendar/intro/</link>
+      <link>https://qamels.github.io/en/calendar/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Qamels.github.io/en/calendar/intro/</guid>
+      <guid>https://qamels.github.io/en/calendar/intro/</guid>
       <description>Ango at La Saulsaie from July 26th to August 20th near Lyon
  1st session led by Brigitte Seiriki Stark,
  2nd session directed by Philippe Reiryu Coupey,
@@ -70,10 +70,10 @@ La Gendroniere, 66666 Blois, France Contact: marcel.gluk@gmail.com Phone: +33 16
     
     <item>
       <title>Welcome!</title>
-      <link>https://Qamels.github.io/en/index-files-for-hugo-bootstrap-theme/</link>
+      <link>https://qamels.github.io/en/index-files-for-hugo-bootstrap-theme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Qamels.github.io/en/index-files-for-hugo-bootstrap-theme/</guid>
+      <guid>https://qamels.github.io/en/index-files-for-hugo-bootstrap-theme/</guid>
       <description>Zen Simple Assise is a sangha network of former disciples of Master Deshimaru and other more recent practitioners.
 They combine their energy and experience to Dissemination of the practice and teaching transmitted in the Of Master Deshimaru, Master Kodo Sawaki and their predecessors of Zen Soto.
 Zen Simple Assise is a common space for meetings, exchanges and Reflection to protect zazen from the current trends and institutions.

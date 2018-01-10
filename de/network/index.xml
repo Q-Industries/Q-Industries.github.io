@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Über uns on Zen Einfaches Sitzen</title>
-    <link>https://Qamels.github.io/de/network/</link>
+    <link>https://qamels.github.io/de/network/</link>
     <description>Recent content in Über uns on Zen Einfaches Sitzen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     
-	<atom:link href="https://Qamels.github.io/de/network/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qamels.github.io/de/network/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
